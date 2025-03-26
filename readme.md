@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ca/ff/ca/caffcaa168e9701befa8149958d34a4b.gif" width="400" alt="GIF de programação" />
+  <img src="https://pa1.narvii.com/6843/41399bdea29e5dc45e503cfd3ba973a448a62da7_hq.gif" width="400" alt="GIF de programação" />
 </div>
 
 ###
