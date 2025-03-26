@@ -1,18 +1,3 @@
-<h2 align="left">💻 Projetos</h2>
-
-<div align="left">
-  
-  ### MaxOnu 2024
-  ![Status](https://img.shields.io/badge/Status-Live-00FF00?style=flat-square)
-  > Simulação da ONU para estudantes
-  
-  ### MaxOnu 2025
-  ![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-FFFF00?style=flat-square)
-  > Versão em constante atualização
-</div>
-
-###
-
 <h2 align="left">👋 Olá! Meu nome é Anderson Jr</h2>
 <h3 align="left">Desenvolvedor Full Stack | Brasil</h3>
 
@@ -79,11 +64,17 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animação Snake" style="border-radius: 10px" />
-</div>
+<h2 align="left">💻 Projetos</h2>
 
 <div align="left">
+  
+  ### MaxOnu 2025
+  ![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-FFFF00?style=flat-square)
+  > Versão em constante atualização
+  
+  ### MaxOnu 2024
+  ![Status](https://img.shields.io/badge/Status-Live-00FF00?style=flat-square)
+  > Simulação da ONU para estudantes
   
   ### Thiago Vieira Arquitetura
   ![Status](https://img.shields.io/badge/Status-Live-00FF00?style=flat-square)
@@ -92,4 +83,10 @@
   ### MaxFit
   ![Status](https://img.shields.io/badge/Status-Live-00FF00?style=flat-square)
   > Plataforma fitness completa
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animação Snake" style="border-radius: 10px" />
 </div>
