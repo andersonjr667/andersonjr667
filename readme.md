@@ -3,13 +3,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andersonjr667&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonjr667&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=andersonjr667&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonjr667&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
 
-![GIF animado](https://i.pinimg.com/originals/ca/ff/ca/caffcaa168e9701befa8149958d34a4b.gif)
+<div align="center">
+  <img src="https://github.com/andersonjr667/andersonjr667/blob/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
@@ -47,17 +49,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="[https://raw.githubusercontent.com/andersonjr667/andersonjr667/output/snake.svg](https://repository-images.githubusercontent.com/535853534/51dc23ec-3b75-421d-90e4-b30c678ac80e)" alt="Snake animation" />
-
-###
-
 ## 📄 Portfolio:
 
 - [MaxOnu 2024](https://andersonjr667.github.io/MaxOnu-/) - Simulação da ONU para estudantes.
 - [MaxOnu 2025](https://andersonjr667.github.io/MaxOnu-/) - Atualização do projeto MaxOnu.
 - [Thiago Vieira - Arquiteto e Empresário](https://andersonjr667.github.io/Thiago-Vieira/index.html) - Site para arquiteto.
 - [MaxFit](https://andersonjr667.github.io/MaxFit/) - Plataforma fitness.
-
-###
