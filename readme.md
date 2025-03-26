@@ -15,12 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andersonjr667/andersonjr667/output/snake.svg" alt="Animação Snake" />
-</div>
-
-###
-
 <h3 align="left">🛠 Tecnologias e Ferramentas</h3>
 
 <div align="left">
@@ -48,6 +42,12 @@
   <a href="https://www.linkedin.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=00FF00&labelColor=000000&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animação Snake" />
 </div>
 
 ###
