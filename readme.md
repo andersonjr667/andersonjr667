@@ -82,26 +82,71 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções digitais ino
 
 \`\`\`javascript
 const andersonJr = {
-  code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-  technologies: {
-    frontend: ["React", "HTML5", "CSS3"],
-    backend: ["Node.js", "Express"],
-    databases: ["MongoDB"],
-    tools: ["Git", "GitHub", "VS Code"]
+  nome: "Anderson Jr",
+  cargo: "Desenvolvedor Full Stack",
+  localizacao: "Brasil 🇧🇷",
+  
+  linguagens: {
+    frontend: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
+    backend: ["JavaScript", "TypeScript", "Python"],
+    marcacao: ["HTML", "Markdown"]
   },
-  architecture: ["SPA", "REST API", "Responsive Design"],
-  currentFocus: "Desenvolvimento Full Stack com React e Node.js",
-  experiencia: "2+ anos com React | 2+ anos com Node.js | 5+ projetos em produção"
+  
+  frameworks_bibliotecas: {
+    frontend: ["React.js", "Next.js (aprendendo)"],
+    backend: ["Node.js", "Express.js"],
+    styling: ["CSS3", "Styled Components", "Tailwind CSS"]
+  },
+  
+  databases: {
+    noSQL: ["MongoDB"],
+    orm: ["Mongoose"]
+  },
+  
+  ferramentas: {
+    versionamento: ["Git", "GitHub"],
+    editor: ["VS Code"],
+    design: ["Figma (básico)"],
+    outros: ["npm", "Postman", "Chrome DevTools"]
+  },
+  
+  arquitetura: ["SPA", "REST API", "MVC", "Responsive Design"],
+  
+  metodologias: ["Agile", "Scrum", "Code Review"],
+  
+  softSkills: [
+    "Resolução de problemas",
+    "Trabalho em equipe",
+    "Comunicação clara",
+    "Aprendizado contínuo",
+    "Atenção aos detalhes"
+  ],
+  
+  experiencia: {
+    react: "2+ anos",
+    nodejs: "2+ anos",
+    projetosEmProducao: 5,
+    contribuicoesGitHub: "500+ commits em 2024"
+  },
+  
+  focoAtual: "Desenvolvimento Full Stack com React e Node.js",
+  proximosPasos: ["Next.js", "TypeScript avançado", "Testes automatizados"],
+  
+  filosofia: "Código limpo, simples e que funciona. Sempre aprendendo! 🚀"
 };
+
+console.log(andersonJr.filosofia);
+// Output: "Código limpo, simples e que funciona. Sempre aprendendo! 🚀"
 \`\`\`
 
 **Principais Competências:**
-- ✅ Desenvolvimento de aplicações web responsivas e modernas
-- ✅ Criação de APIs RESTful escaláveis
-- ✅ Integração com bancos de dados NoSQL (MongoDB)
-- ✅ Trabalho colaborativo com metodologias ágeis
-- ✅ Versionamento de código com Git/GitHub
-- ✅ Manutenção e otimização de sistemas existentes
+- Desenvolvimento de aplicações web responsivas e modernas
+- Criação de APIs RESTful escaláveis e seguras
+- Integração com bancos de dados NoSQL (MongoDB)
+- Trabalho colaborativo com metodologias ágeis
+- Versionamento de código e boas práticas com Git/GitHub
+- Manutenção, refatoração e otimização de sistemas existentes
+- Debugging e resolução de problemas complexos
 
 ###
 
