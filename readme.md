@@ -18,6 +18,24 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções digitais ino
 - 🎯 Objetivo: Contribuir para projetos open source e crescer como desenvolvedor
 - 📍 Localização: Brasil
 
+<!-- Adicionada seção de links diretos para redes sociais e portfólio -->
+## 🔗 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/andersonjr667" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/andersonjr667" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:alsj1520@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/5531971533882" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</div>
+
 ###
 
 ## 📊 Estatísticas do GitHub
@@ -73,7 +91,7 @@ const andersonJr = {
   },
   architecture: ["SPA", "REST API", "Responsive Design"],
   currentFocus: "Desenvolvimento Full Stack com React e Node.js",
-  funFact: "Adoro transformar café em código! ☕"
+  experiencia: "2+ anos com React | 2+ anos com Node.js | 5+ projetos em produção"
 };
 \`\`\`
 
@@ -84,6 +102,26 @@ const andersonJr = {
 - ✅ Trabalho colaborativo com metodologias ágeis
 - ✅ Versionamento de código com Git/GitHub
 - ✅ Manutenção e otimização de sistemas existentes
+
+###
+
+<!-- Adicionada seção de roadmap de aprendizado contínuo -->
+## 🎓 Roadmap de Aprendizado
+
+**Atualmente Aprendendo:**
+- 🔄 Next.js e Server Components
+- 🔄 TypeScript avançado
+- 🔄 Testes automatizados (Jest, Vitest)
+
+**Próximos Passos:**
+- 📌 Aprofundar em arquitetura de microsserviços
+- 📌 Explorar DevOps e CI/CD
+- 📌 Contribuir ativamente em projetos open source
+
+**Objetivos 2025:**
+- 🎯 Publicar 3+ projetos open source
+- 🎯 Alcançar 1000+ contribuições no GitHub
+- 🎯 Dominar full-stack com Next.js + TypeScript
 
 ###
 
@@ -98,6 +136,9 @@ const andersonJr = {
         <br><br>
         <p><strong>Stack:</strong> React, Node.js, MongoDB</p>
         <p>Versão atualizada da plataforma de simulação da ONU, com novas funcionalidades e melhorias de performance.</p>
+        <a href="https://github.com/andersonjr667/maxonu-2025" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github" alt="GitHub" />
+        </a>
       </div>
     </td>
     <td width="50%">
@@ -107,6 +148,9 @@ const andersonJr = {
         <br><br>
         <p><strong>Stack:</strong> React, Node.js, MongoDB</p>
         <p>Plataforma completa para simulação da ONU voltada para estudantes, com sistema de gerenciamento e interação.</p>
+        <a href="https://github.com/andersonjr667/maxonu-2024" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github" alt="GitHub" />
+        </a>
       </div>
     </td>
   </tr>
@@ -118,6 +162,9 @@ const andersonJr = {
         <br><br>
         <p><strong>Stack:</strong> React, HTML5, CSS3</p>
         <p>Website profissional e elegante para portfólio de arquitetura, com design responsivo e galeria de projetos.</p>
+        <a href="https://github.com/andersonjr667/thiago-vieira-arquitetura" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github" alt="GitHub" />
+        </a>
       </div>
     </td>
     <td width="50%">
@@ -127,6 +174,9 @@ const andersonJr = {
         <br><br>
         <p><strong>Stack:</strong> React, Node.js, MongoDB</p>
         <p>Plataforma fitness completa com sistema de treinos, acompanhamento de progresso e gestão de alunos.</p>
+        <a href="https://github.com/andersonjr667/maxfit" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github" alt="GitHub" />
+        </a>
       </div>
     </td>
   </tr>
@@ -146,20 +196,33 @@ const andersonJr = {
 
 ###
 
+<!-- Adicionada seção de contribuições open source -->
+## 🤝 Contribuições Open Source
+
+Acredito no poder da comunidade e estou sempre buscando contribuir para projetos que fazem diferença:
+
+- 🔗 Contribuições em repositórios da comunidade
+- 🐛 Reporte e correção de bugs
+- 📚 Documentação e melhorias de código
+
+*Interessado em colaborar? Fique à vontade para entrar em contato!*
+
+###
+
 ## 📫 Entre em Contato
 
 <div align="center">
-  <a href="https://wa.me/5531971533882" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp" />
-  </a>
-  <a href="mailto:alsj1520@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
+  <a href="https://www.linkedin.com/in/andersonjr667" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
   </a>
   <a href="https://github.com/andersonjr667" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/andersonjr667" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+  <a href="mailto:alsj1520@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
+  </a>
+  <a href="https://wa.me/5531971533882" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp" />
   </a>
 </div>
 
