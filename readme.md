@@ -20,7 +20,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções digitais que
 - 💡 Focado em **código limpo**, **performance** e **experiência do usuário**
 - 🤝 Aberto para colaborações, freelance e oportunidades
 - 📍 Localização: Brasil 🇧🇷
-- 📧 **Email:** alsj1520@gmail.com
+- 📧 **Email:** alsj1520@gmail. com
 
 <br/>
 
@@ -46,8 +46,8 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções digitais que
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api? username=andersonjr667&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=00FF00&text_color=CCCCCC&icon_color=00FF00&bg_color=1A1A1A&hide_border=true&border_radius=10" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonjr667&layout=compact&langs_count=8&theme=dark&title_color=00FF00&text_color=CCCCCC&bg_color=1A1A1A&hide_border=true&border_radius=10" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonjr667&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=00FF00&text_color=CCCCCC&icon_color=00FF00&bg_color=1A1A1A&hide_border=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonjr667&layout=compact&langs_count=8&theme=dark&title_color=00FF00&text_color=CCCCCC&bg_color=1A1A1A&hide_border=true&border_radius=10"/>
 </div>
 
 <br/>
@@ -62,7 +62,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções digitais que
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -70,16 +70,16 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções digitais que
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node. js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express. js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔧 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032? style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -123,7 +123,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções digitais que
 ---
 
 <div align="center">
-  <a href="https://github.com/andersonjr667? tab=repositories">
+  <a href="https://github.com/andersonjr667?tab=repositories">
     <img src="https://img.shields.io/badge/Ver%20Todos%20os%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos" />
   </a>
 </div>
@@ -133,17 +133,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções digitais que
 ## 📈 Atividade de Contribuição
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel. app/graph?username=andersonjr667&theme=react-dark&hide_border=true&bg_color=1A1A1A&color=00FF00&line=00FF00&point=CCCCCC&area=true&area_color=00FF00" alt="Contribution Graph" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andersonjr667/andersonjr667/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andersonjr667/andersonjr667/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andersonjr667/andersonjr667/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph? username=andersonjr667&theme=react-dark&hide_border=true&bg_color=1A1A1A&color=00FF00&line=00FF00&point=CCCCCC&area=true&area_color=00FF00" alt="Contribution Graph" width="100%"/>
 </div>
 
 <br/>
@@ -176,8 +166,6 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções digitais que
     </td>
     <td align="center" width="33%">
       <h3>🚀 DevOps & Soft Skills</h3>
-      <ul align="center" width="33%">
-      <h3>🚀 DevOps & Soft Skills</h3>
       <ul align="left">
         <li>Git & GitHub Workflows</li>
         <li>CI/CD Pipelines</li>
@@ -200,7 +188,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções digitais que
 
 <br/>
 
-Acredito no poder da comunidade open source e busco contribuir regularmente: 
+Acredito no poder da comunidade open source e busco contribuir regularmente:  
 
 - 🐛 **Bug Fixes** - Identificação e correção de problemas
 - 📚 **Documentação** - Melhorias e traduções
@@ -235,12 +223,12 @@ Acredito no poder da comunidade open source e busco contribuir regularmente:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api? type=waving&color=00FF00&height=120&section=footer" alt="Footer Wave" />
   
-  <h3>💚 Obrigado pela visita!</h3>
+  <h3>💚 Obrigado pela visita! </h3>
   <p>Se você gostou do meu trabalho, considere dar uma ⭐ nos repositórios!</p>
   
   <br/>
   
   ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
   ![Built with Coffee](https://img.shields.io/badge/Built%20with-☕-brown?style=for-the-badge)
-  ![Powered by Code](https://img.shields.io/badge/Powered%20by-</>&-blue?style=for-the-badge)
+  ![Powered by Code](https://img.shields.io/badge/Powered%20by-</>&-blue? style=for-the-badge)
 </div>
