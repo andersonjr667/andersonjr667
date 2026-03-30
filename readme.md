@@ -1,8 +1,3 @@
-diff --git a/readme.md b/readme.md
-index 89d9218063fdde262a5b1003b3ae8d45b20c094f..952ac1e5b0cb373e2fcb41c1cde1b41c47196680 100644
---- a/readme.md
-+++ b/readme.md
-@@ -1,105 +1,106 @@
  <h1 align="center">👋 Anderson Jr</h1>
  
  <p align="center">
